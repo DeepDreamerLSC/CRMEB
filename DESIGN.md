@@ -6,6 +6,7 @@
 - Primary product surfaces: 微信小程序：首页、商品、购物车、我的。
 - Evidence reviewed: GitHub Issue https://github.com/DeepDreamerLSC/CRMEB/issues/1 第一版 M1；本次用户对精品咖啡、简约及设计感的要求。另收到四张水墨界面参考与一张咖啡沙漏 Logo 照片，已归档到 design/coffee-v1/references/；用户明确允许按品牌调性重新提炼 Logo。已新增独立原生 HTML 原型源码，未接入 CRMEB 应用。
 - Deliverable: `design/coffee-v1/index.html` 四栏 HTML 交互原型、白底黑线 Logo PNG 与 SVG；视觉稿归档为 `visual-board.html`。不修改远程 Issue。
+- 开发交接说明：`design/HANDOFF.md`，可直接交给实施开发者的要点与参考索引。
 
 ## Brand
 - Personality: 安静、专业、温暖，有咖啡杂志和独立烘焙店的质感。
