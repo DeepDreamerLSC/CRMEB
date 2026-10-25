@@ -190,7 +190,7 @@ class StoreProductAttrServices extends BaseServices
             foreach ($attr as $kk => $vv) {
                 $attrDetail[$k]['attr_value'][$kk]['attr'] = $vv;
                 $attrDetail[$k]['attr_value'][$kk]['check'] = false;
-                $attrDetail[$k]['attr_value'][$kk]['pic'] = $attrPics[$v['attr_name']][$vv];
+                $attrDetail[$k]['attr_value'][$kk]['pic'] = $attrPics[$v['attr_name']][$vv] ?? '';
             }
         }
         return [$attrDetail, $values];
