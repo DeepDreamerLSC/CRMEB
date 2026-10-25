@@ -1,0 +1,12 @@
+{
+  "score": 87,
+  "verdict": "revise",
+  "category_match": true,
+  "differences": [
+    "手机规格弹窗较长，重新绘制选项时回到顶部，影响级联操作连续性。"
+  ],
+  "suggestions": [
+    "切换豆类、重量和研磨方式时保留弹窗滚动位置；新打开商品从顶部开始。"
+  ],
+  "reasoning": "需修复级联选择的滚动连续性后再完成。"
+}

@@ -1,0 +1,8 @@
+Refine this exact four-screen coffee mini-program design, preserving the 1642x958 canvas, all screen positions, every Chinese word, logo silhouette and inner details, product photographs, four bottom navbars, all prices and UI layouts.
+ONLY change the atmosphere/color treatment:
+- The home currently has bright golden glowing ribbons and floating sparkling dust around the hourglass logo. REMOVE all luminous ribbons, sparkles, star-like points, and magical glow. Replace that backdrop with serene bright milky-cream and translucent light coffee-brown washes, like sunlight passing through a glass of filter coffee onto matte cream paper. Natural, refined, tactile, not a perfume or cosmetics advertisement.
+- Preserve the hero coffee-hourglass logo exactly, in deep cocoa brown. Keep airy negative space around it. A soft broad natural diagonal daylight patch is enough; no bright overexposed streaks.
+- Fine matte sand grain and gently rolling low-contrast dune lines should appear only toward the bottom and subtly at the edges, not swirling across the logo. Palette muted cream #F8F1E5, light sand #E1C9AB, soft caramel #C7A27C, translucent coffee amber #A5764F, dark cocoa #573821. Warm but not yellow-gold or orange. Do NOT darken to muddy brown; keep it luminous.
+- On the other 3 screens, lower yellow-gold saturation in background ornament. Keep warm ivory and faint sand lines, otherwise untouched.
+- Absolutely no new copy or controls. Same concise home with logo, 一杯之间, 留一点时间，给喜欢的风味。, and two entrypoints 选购咖啡 and 400g 拼团.
+Result should be a restrained, warm, translucent coffee-brown evolution of the supplied draft, with no reduction in legibility.

@@ -76,3 +76,8 @@ crmeb/runtime/temp/readme.md
 Dockerfile
 .codebuddy/models.json
 .codebuddy/rules/project-intro.mdc
+
+# local agent tooling
+.omx/
+.v2c/
+.video_agent/

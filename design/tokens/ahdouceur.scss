@@ -1,0 +1,95 @@
+// ============================================================
+// AhDouceur · 沙与时间 —— 主题变量（SCSS 版）
+// 与 ahdouceur.css 保持同值同步；供 uni-app 小程序端全局引入。
+// 命名 $ad-*，避免与 CRMEB 原生变量冲突。
+// ============================================================
+
+// ---------- 面一 · 咖啡底 ----------
+$ad-coffee:       #795039;
+$ad-coffee-deep:  #3e261c;
+$ad-coffee-light: #ac825f;
+$ad-coffee-grad:  linear-gradient(155deg, #ac825f 0%, #795039 39%, #80543a 65%, #9c704b 100%);
+
+$ad-cream:        #fff2de;
+$ad-cream-muted:  #e2cdb8;
+$ad-cream-accent: #ffe4bc;
+$ad-cream-line:   rgba(242, 218, 188, .22);
+$ad-cream-chip:   #f0dabc;
+
+// ---------- 面二 · 暖白内容面（卡片） ----------
+$ad-card:         #fffaf3;
+$ad-card-border:  #fff6e7;
+$ad-card-ink:     #553923;
+$ad-card-muted:   #85715f;
+$ad-card-line:    #e6d9c8;
+$ad-card-accent:  #934d29;
+
+// ---------- 面三 · 纸面（管理后台/浅色场景） ----------
+$ad-paper:        #fcf8f0;
+$ad-ink:          #553923;
+$ad-muted:        #8b7867;
+$ad-line:         #e6d9c8;
+$ad-line-strong:  #d8c5b1;
+
+// ---------- 强调与交互 ----------
+$ad-accent:        #9b532c;
+$ad-accent-bg:     #f2e4d1;
+$ad-accent-border: #9b6c47;
+$ad-accent-ink:    #744021;
+$ad-focus:         #ba733e;
+
+// ---------- 按钮体系 ----------
+$ad-primary:        #72462c;
+$ad-primary-ink:    #fff4e1;
+$ad-secondary-line: #b7a18b;
+$ad-coffee-btn-ink: #543721;
+
+// ---------- 功能件 ----------
+$ad-badge-bg:      #f3dcba;
+$ad-badge-ink:     #6b4229;
+$ad-progress-track: #e3cfb7;
+$ad-progress-fill:  #ac7045;
+$ad-toast-bg:      rgba(85, 57, 35, .95);
+$ad-toast-ink:     #fff5e4;
+$ad-photo-bg:      #ddcbb1;
+$ad-input-bg:      #fffaf3;
+
+// ---------- 字体（小程序端字体以包内 ttf 为准） ----------
+$ad-hand:  'LongCang', 'Kaiti SC', KaiTi, cursive;
+$ad-serif: Georgia, 'Times New Roman', serif;
+$ad-sans:  -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+
+// ---------- 圆角 / 间距 ----------
+$ad-r-sm: 3px;  $ad-r-md: 4px;  $ad-r-lg: 5px;  $ad-r-xl: 12px;
+$ad-s1: 4px;  $ad-s2: 8px;  $ad-s3: 12px;  $ad-s4: 16px;  $ad-s5: 24px;  $ad-s6: 32px;
+$ad-page-x: 20px;
+
+// ---------- 常用混入 ----------
+@mixin ad-hand-title($size: 38px) {
+  font-family: $ad-hand;
+  font-size: $size;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+@mixin ad-card-surface {
+  background: $ad-card;
+  border: 1px solid $ad-card-border;
+  border-radius: $ad-r-lg;
+  color: $ad-card-ink;
+}
+
+@mixin ad-coffee-surface {
+  background: radial-gradient(ellipse at 6% 4%, rgba(237, 202, 160, .29) 0%, transparent 43%),
+              linear-gradient(155deg, #ac825f 0%, #795039 39%, #80543a 65%, #9c704b 100%);
+  color: $ad-cream;
+}
+
+@mixin ad-icon-line {
+  // 线图标：currentColor 单线描边，禁填充
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

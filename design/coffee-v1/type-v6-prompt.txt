@@ -1,0 +1,17 @@
+TYPOGRAPHY-ONLY EDIT of the attached four-screen Chinese specialty-coffee app design. Keep 1642x958 canvas, all four screen locations, the translucent brown home background, warm light transaction screens, logo geometry, icons, all photography, product names, numeric values, prices, progress and every word unchanged. User asks for typography with MORE FLUIDITY AND DESIGN CHARACTER.
+
+Make a CLEAR, visible improvement to the four large headings. Replace the current stiff heavy upright Song/Ming serif typesetting with refined bespoke Chinese handwritten lettering, light semi-running script / contemporary 行楷 inspired. Fluid continuous energy, supple curves, long elegant tapering stroke endings, slightly open relaxed character structures, natural subtle baseline rhythm. Confident fine-to-medium strokes. Modern art-book / independent coffee-roastery quality. Graceful and easy to read, not chaotic cursive, not heavy brush ink, not martial-arts calligraphy, not playful cartoon or generic font italics. Preserve correct exact Chinese character structure and do not connect characters into unreadable scribbles.
+
+1 HOME main title EXACT "一杯之间": make this the strongest typography feature, large ivory calligraphic lettering, more flowing and airy than the reference, with gently extended horizontal stroke of 一 and graceful naturally sweeping strokes. Keep centered under the logo, same bounding region, no overlap with logo/subtitle. It should feel lightly handwritten and harmonize with the curving hourglass logo and sand lines. Do not add decorative underlines or swashes unrelated to characters.
+HOME subtitle EXACT "留一点时间，给喜欢的风味。" use lighter clean readable humanist Chinese type, smaller than headline, balanced spacing, not calligraphy.
+HOME entry labels "选购咖啡" and "400g 拼团" may use a restrained lighter version of the title lettering for their Chinese characters; keep 400g in clear refined numerals, all secondary captions clean.
+
+2 PRODUCT title EXACT "风味选集": use the same flowing modern 行楷 design language, modestly sized and dark cocoa, same position. Search, filters, product names and tasting notes should be clean humanist sans-serif with slightly lighter weight to create hierarchy. Do not make catalog body script.
+
+3 CART title EXACT "购物车": same flowing readable title lettering, same position. Keep all item names, quantities, currency figures, subtotal and checkout text in clean readable type.
+
+4 MY title EXACT "我的": same flowing title style. The section titles "我的订单" and "我的拼团" may have a mild handwritten inflection, but not exaggerated. All status labels, profile nickname, settings and group data remain clean and legible.
+
+English COFFEE wordmarks can be more refined and lightly spaced, but no extra English copy. Leave nav labels and numeric prices in crisp type. Main headings should have a clearly visible flowing handwritten character rather than merely shrinking or slanting the old font.
+
+Change only upper-right board version label to "TYPE 06". Preserve all other layout and imagery as closely as possible. No new copy, no missing characters, no font names or annotations on the design.

@@ -1,0 +1,44 @@
+Use case: ui-mockup.
+Create ONE exceptionally polished, high-resolution landscape presentation image of FOUR coordinated Chinese WeChat mini-program mobile UI screens, in a single horizontal row. Surface: a refined specialty coffee bean shop, phase-one ecommerce. Each screen approximately 390x844 logical pixels; overall artboard approximately 2400x1400, generous outer whitespace. Show flat full-length screens with very subtle borders, NO physical phone hardware, no perspective. All four screens fully visible including bottom navigation. Presentation board title small at upper left "精品咖啡 / 小程序视觉提案" and tiny upper right "CONCEPT 01". Place understated labels above each screen: "01 首页", "02 商品", "03 购物车", "04 我的".
+
+Art direction: sophisticated independent coffee roastery meets Japanese editorial magazine, quiet luxury through composition not ornament. Warm ivory #F6F3ED, espresso ink #302923, restrained copper brown #94654A, thin warm-gray hairlines. Strong tasteful Chinese Song-style serif display headings with readable sans-serif body and elegant serif English accents. Generous whitespace, precise alignment, very subtle 4-8px corners. No giant rounded dashboard cards, no gradients, no bright orange/red promotional UI, no glossy 3D icons. Photorealistic professional coffee still-life imagery: soft natural sunlight, warm shadows, matte ceramic coffee cup, pour-over glass server, folded ivory coffee bag, dark walnut and pale travertine. Generic COFFEE text-only placeholder wordmark, no invented named brands or external logos. Keep all UI text sharp, correct Chinese, large enough to read. English only sparingly as editorial accents.
+
+Shared structure: white/warm ivory screen, small status bar 9:41, WeChat top-right capsule, consistent tabbar at bottom with FOUR thin-line icons and exact labels "首页" "商品" "购物车" "我的". Active tab dark copper on its corresponding screen, others gray. Bottom safe area. No memberships, points, stored balance, coupons, affiliate marketing.
+
+SCREEN 1 HOME:
+Top minimal COFFEE wordmark left, capsule right.
+Editorial headline "把日常，慢慢冲好。" and small supporting line "新鲜烘焙 · 好好喝一杯".
+A wide tall beautiful coffee still-life photograph takes about one third of screen: real ceramic cup and pour-over coffee, subtle cream bean package on travertine, sunshine, premium tactile scene. Tasteful small outlined "探索本期咖啡 ↗" control beneath image.
+Section "一起，拼一份好咖啡" with restrained small "400g 重量拼团".
+An elegant flat bordered weight-group module, NOT a promotion banner: compact coffee bag thumbnail at left; right text "已拼 200g / 400g", thin half-filled copper progress line, "还差 200g，邀你一起", small clear CTA "去参团 →". No fake people, no countdown pressure.
+At bottom above tabbar a small "本期甄选" section with two compact packaging previews if space permits; no overflow.
+
+SCREEN 2 PRODUCT CATALOG:
+Header "选一款，属于你的风味。" in refined Chinese type. Small search field "搜索咖啡 / 产地 / 风味" with outline search icon.
+Category tabs "全部" "单一产地" "日常拼配" with 全部 underlined.
+2-column product grid with FOUR product photos, art directed consistently but different understated cream/brown labels, ivory bags on pale stone with warm shadows. Each card has clean informative text:
+1 "埃塞 · 花与柑橘", "茉莉 · 柑橘 · 蜂蜜", "200g", "¥88".
+2 "日常 · 醇厚拼配", "黑巧 · 坚果 · 焦糖", "200g", "¥76".
+3 "哥伦比亚 · 红果", "莓果 · 可可", "200g", "¥92".
+4 "巴西 · 暖阳", "榛果 · 奶油", "200g", "¥68".
+Small outlined plus buttons, not heavy cards. Small discreet "可参与重量拼团" label on first item only, secondary to product.
+Generous layout and consistent bottom navigation with 商品 active.
+
+SCREEN 3 CART:
+Header "购物车" and small "好咖啡，准备就绪。" with "管理" at right.
+Top modest line "普通购买 · 2 件商品".
+Two elegant horizontal cart rows separated by thin rules, each checked with small circle, square photographic bag thumbnail, information:
+"埃塞 · 花与柑橘" / "200g · 咖啡豆" / "¥88" and quantity minus 1 plus.
+"日常 · 醇厚拼配" / "200g · 咖啡豆" / "¥76" and quantity minus 1 plus.
+Below an understated service row "新鲜烘焙" and "支持快递 / 自提 / 同城配送", no selected delivery assumption.
+Lots of calm breathing room, no promotional upsells.
+Bottom pinned checkout bar ABOVE tabbar: checked "全选", "合计 ¥164", smaller "运费以结算页为准", dark espresso button with ivory text "去结算（2）". Total mathematically correct. Ordinary cart total weight is NOT presented as group progress. Tabbar 购物车 active, tiny badge 2.
+
+SCREEN 4 MY ACCOUNT:
+Top simple "我的" title and WeChat capsule. A tasteful small circular abstract coffee-cup avatar, "你好，咖啡爱好者" and small "今天，也喝一杯好咖啡".
+"My orders" section Chinese "我的订单", trailing "全部订单 →". Five small thin-line icons with labels "待付款" "待成团" "待发货" "待收货" "售后".
+A restrained warm-beige panel "我的拼团" with small "待成团"; "埃塞 · 花与柑橘", "已拼 200g / 400g", thin half-full progress and "查看进度 →".
+Clean settings list separated by hairlines, icons on left and chevrons on right: "收货地址", "联系客服", "售后说明", "关于咖啡". Bottom small editorial line "认真对待，每一杯日常。".
+Tabbar 我的 active.
+
+Important: a cohesive, highly credible high-end mobile commerce design; substantial photographic content, strong graphic hierarchy, no illegible tiny paragraphs. Prices and goods are illustrative. All four nav bars present. Do not add watermarks.

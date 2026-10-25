@@ -1,0 +1,12 @@
+Edit target: the supplied four-screen Chinese specialty-coffee mini-program design. This is a restrained editorial copy refinement, not a redesign. Preserve the same 1642x958 canvas, all four screen rectangles, photographic assets, packaging, typography family, all layout positions, colors, navigation, prices, weights and order information. Add a little evocative coffee-shop atmosphere with ONLY these exact copy edits:
+HOME first screen:
+- Replace headline "本期咖啡" with "一杯之间". Keep its elegant large Chinese serif style.
+- Replace subtitle "单一产地 · 日常拼配" with "留一点时间，给喜欢的风味。" Set this as one quiet readable line beneath the headline, with normal modest character spacing, no exaggerated spacing, and enough whitespace.
+- Replace group-section heading "400g 拼团" with "好风味，共享".
+- Replace the small label to the right "多人合购" with "400g 重量拼团" so the functional meaning remains explicit.
+- Keep "选购咖啡", "精选咖啡", the group progress and all purchase controls unchanged.
+PRODUCT second screen:
+- Replace headline "咖啡豆" with "风味选集". Keep the same heading baseline and size. Keep all categories, product names, tasting notes, grams and prices unchanged.
+CART and MY: Keep them EXACTLY as in the reference; no new slogan, greeting or decorative text.
+Presentation label upper right: change "COPY 02" to "COPY 03".
+All text exact and clear. Do not add any other words, illustrations, flourishes or slogans. The intended tone is a thoughtful small independent coffee roastery: warm, quiet, editorial, with room for interpretation. Keep all four navbars fully visible and preserve every photo and UI control.

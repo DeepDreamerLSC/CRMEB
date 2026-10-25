@@ -1,0 +1,101 @@
+/* ============================================================
+   AhDouceur · 沙与时间 —— 主题变量（CSS 版）
+   单一来源：design/coffee-v1/prototype.css（Prototype 17）+ DESIGN.md
+   适用：H5 商家管理后台、H5 商城、原型页
+   纪律：所有新页面引用变量，不写死色值；品牌调整只改这里。
+   ============================================================ */
+
+:root {
+  /* ---------- 面一 · 咖啡底（小程序四栏与弹窗的全局底面） ---------- */
+  --ad-coffee:        #795039;   /* 品牌主棕 */
+  --ad-coffee-deep:   #3e261c;   /* 深棕（渐变暗端/投影色） */
+  --ad-coffee-light:  #ac825f;   /* 透光棕（渐变亮端） */
+  --ad-coffee-grad: linear-gradient(155deg, #ac825f 0%, #795039 39%, #80543a 65%, #9c704b 100%);
+  --ad-coffee-surface: radial-gradient(ellipse at 6% 4%, rgba(237,202,160,.29) 0%, transparent 43%),
+                       linear-gradient(155deg, #ac825f 0%, #795039 39%, #80543a 65%, #9c704b 100%);
+
+  /* 咖啡面上的文字与线条 */
+  --ad-cream:         #fff2de;   /* 奶油主文字 */
+  --ad-cream-muted:   #e2cdb8;   /* 奶油次级文字 */
+  --ad-cream-accent:  #ffe4bc;   /* 咖啡面强调（价格/选中） */
+  --ad-cream-line:    rgba(242, 218, 188, .22);   /* 咖啡面细分隔线 */
+  --ad-cream-chip:    #f0dabc;   /* 咖啡面实心按钮底 */
+
+  /* ---------- 面二 · 暖白内容面（商品卡/购物车条目/订单卡/面板） ---------- */
+  --ad-card:          #fffaf3;   /* 暖白卡片底 */
+  --ad-card-border:   #fff6e7;   /* 卡片描边 */
+  --ad-card-ink:      #553923;   /* 卡片主文字·深棕 */
+  --ad-card-muted:    #85715f;   /* 卡片次级文字 */
+  --ad-card-line:     #e6d9c8;   /* 卡片内细分隔线 */
+  --ad-card-accent:   #934d29;   /* 卡片强调色（价格/选中） */
+
+  /* ---------- 面三 · 纸面（浅色基线：管理后台/长时阅读场景） ---------- */
+  --ad-paper:         #fcf8f0;   /* 纸底 */
+  --ad-ink:           #553923;   /* 主文字 */
+  --ad-muted:         #8b7867;   /* 次文字 */
+  --ad-line:          #e6d9c8;   /* 细线 */
+  --ad-line-strong:   #d8c5b1;   /* 输入框/搜索框描边 */
+
+  /* ---------- 强调与交互（跨面通用） ---------- */
+  --ad-accent:        #9b532c;   /* 焦糖栗：价格、选中、链接 */
+  --ad-accent-bg:     #f2e4d1;   /* 选项选中底（纸面/卡片） */
+  --ad-accent-border: #9b6c47;   /* 选项选中描边 */
+  --ad-accent-ink:    #744021;   /* 选项选中文字 */
+  --ad-focus:         #ba733e;   /* 键盘焦点环（focus-visible） */
+
+  /* ---------- 按钮体系 ---------- */
+  --ad-primary:        #72462c;  /* 纸面/卡片主按钮 */
+  --ad-primary-ink:    #fff4e1;  /* 主按钮文字 */
+  --ad-secondary-line: #b7a18b;  /* 次按钮描边（纸面） */
+  --ad-coffee-btn-ink: #543721;  /* 咖啡面实心按钮文字 */
+
+  /* ---------- 功能件 ---------- */
+  --ad-badge-bg:      #f3dcba;   /* 角标底（咖啡面）/ 强调胶囊 */
+  --ad-badge-ink:     #6b4229;
+  --ad-progress-track: #e3cfb7;  /* 进度条轨道 */
+  --ad-progress-fill:  #ac7045;  /* 进度条填充 */
+  --ad-toast-bg:      rgba(85, 57, 35, .95);
+  --ad-toast-ink:     #fff5e4;
+  --ad-photo-bg:      #ddcbb1;   /* 商品图缺省底 */
+  --ad-input-bg:      #fffaf3;   /* 输入框底（纸面） */
+
+  /* ---------- 字体 ---------- */
+  --ad-hand:  'LongCang', 'Kaiti SC', KaiTi, cursive;             /* 手写标题 */
+  --ad-serif: Georgia, 'Times New Roman', serif;                   /* 拉丁编辑体 */
+  --ad-sans:  -apple-system, BlinkMacSystemFont, 'PingFang SC',
+              'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;   /* 正文/数字 */
+
+  /* ---------- 字号阶梯（手写体按视觉尺寸） ---------- */
+  --ad-fs-hero: 60px;    /* 首页品牌名 */
+  --ad-fs-title: 38px;   /* 页面标题 */
+  --ad-fs-h2: 32px;      /* 弹层标题 */
+  --ad-fs-h3: 28px;      /* 区块标题 */
+  --ad-fs-body: 14px;
+  --ad-fs-note: 12px;
+  --ad-fs-caption: 11px;
+  --ad-fs-micro: 10px;   /* 仅状态栏/角标辅助，不用于正文 */
+
+  /* ---------- 圆角（克制：细线 + 小圆角，不用大胶囊卡片） ---------- */
+  --ad-r-sm: 3px;    /* 按钮 / 输入框 / 选项 */
+  --ad-r-md: 4px;    /* 卡片 / 商品图 */
+  --ad-r-lg: 5px;    /* 大卡片 / 面板 */
+  --ad-r-xl: 12px;   /* 弹窗 / 设备框（页面内不使用） */
+
+  /* ---------- 间距节奏（4 的倍数；手机左右留白 20px） ---------- */
+  --ad-s1: 4px;  --ad-s2: 8px;  --ad-s3: 12px;
+  --ad-s4: 16px; --ad-s5: 24px; --ad-s6: 32px;
+  --ad-page-x: 20px;
+
+  /* ---------- 图标语言 ---------- */
+  /* 单线条 currentColor 描边，线宽 1.4；手绘大图标 1.35~1.8 并轻微旋转 */
+  --ad-icon-stroke: 1.4;
+  --ad-icon-stroke-hand: 1.35;
+  --ad-icon-tilt: -4deg;   /* 手绘图标微倾（±4° 内随机） */
+
+  /* ---------- 投影（仅浮层用，卡片靠描边不投影） ---------- */
+  --ad-shadow-pop: 0 15px 65px rgba(60, 35, 29, .33);
+
+  /* ---------- 动效 ---------- */
+  /* 轻量切换 .2s ease；尊重 prefers-reduced-motion */
+  --ad-motion-fast: .2s ease;
+}

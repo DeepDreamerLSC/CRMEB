@@ -1,0 +1,10 @@
+Edit target: the supplied four-screen coffee mini-program mockup. Text-localization edit only. Keep the exact same four-screen canvas dimensions, screen positions, photographs, coffee packaging, colors, typography style, navbars, cards, controls, product names, prices, weights and totals. Simplify headings and subheadings to restrained concise Chinese. Do not redesign the layout or add any new decorations, slogans or English copy. Preserve whitespace when removing sentences.
+
+Exact text replacements:
+1. First screen HOME: replace the two-line headline "把日常，慢慢冲好。" with the short one-line headline "本期咖啡" in the same elegant serif style, retaining generous empty space underneath. Replace "新鲜烘焙 · 好好喝一杯" with "单一产地 · 日常拼配". Replace button "探索本期咖啡" with "选购咖啡". Replace section heading "一起，拼一份好咖啡" with "400g 拼团". Replace right-side small label "400g 重量拼团" with "多人合购". Replace small line "还差 200g，邀你一起" with "还差 200g 成团". Replace "本期甄选" with "精选咖啡".
+2. Second screen PRODUCT: replace "选一款，属于你的风味。" with "咖啡豆". Keep search, categories, images and all product data.
+3. Third screen CART: retain "购物车". Remove subtitle "好咖啡，准备就绪。" entirely, leave clean whitespace. Keep "管理", all cart data, service information and ¥164 total unchanged.
+4. Fourth screen MY: replace profile name "你好，咖啡爱好者" with "咖啡爱好者" (placeholder nickname). Remove subtitle "今天，也喝一杯好咖啡" entirely. Remove bottom slogan "认真对待，每一杯日常。" together with its decorative side lines. Keep all account and order modules unchanged.
+5. Small presentation-board title upper left: replace "精品咖啡 / 小程序视觉提案" with "COFFEE / 界面设计". Upper right change "CONCEPT 01" to "COPY 02".
+
+All updated Chinese must be spelled exactly, crisp and readable. Retain precisely the existing positions and same 1642x958 landscape aspect; no extra text.

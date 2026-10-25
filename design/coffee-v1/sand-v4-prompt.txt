@@ -1,0 +1,34 @@
+Use case: ui-mockup / image edit.
+Create the next cohesive four-screen Chinese coffee mini-program concept by editing reference image 1. Keep the full four-screen presentation, identical 1642x958 canvas/aspect, identical screen bounds and bottom nav placement. This is a user-authorized visual direction change to a warm translucent coffee-brown palette and sand/time identity, with a SIMPLER HOME PAGE. Output one finished high-fidelity four-screen design image.
+
+INPUT ROLES:
+Image 1 = our existing four-screen design, the CONTENT AND LAYOUT AUTHORITY for product catalog, cart and account.
+Image 2 = USER'S BRAND LOGO. This is the identity authority: an expressive hand-drawn hourglass outline, coffee beans in the upper bowl, a falling stream through the narrow middle, and undulating sand/landscape lines in the lower bowl. Faithfully incorporate this distinct recognizable silhouette and interior bean/sand elements, recolored warm dark coffee brown. Clean up the photographed paper backdrop/seam; do not include the photo of the logo or invent a different symbol. No need to invent a brand name.
+Image 3 = MOOD/COMPOSITION inspiration only. Borrow its simple full-screen atmospheric home, breathing room, spare hand-drawn icons and thin imperfect lines. DO NOT borrow black ink, dark charcoal fields, heavy grain, the Shizuku brand, its words, watermarks, splash page, recharge or drink ordering business.
+
+ART DIRECTION:
+Translucent amber coffee held up to sunlight, warm cream daylight, fine pale sand, gently curved dune contours. Luminous, airy, welcoming and artful. Palette: warm ivory #FFF9EF, sand #E9D2AA, amber #BC874C, caramel #A46D3C, cocoa text #573821. 70-80 percent light surfaces; absolutely no black panels, gloomy brown murk, dark ink-wash or high-contrast black-white texture. Use a subtle wash of sunlight/refraction and extremely fine sand texture sparingly on HOME; keep other screens mainly clean pale cream with occasional pale amber header or thin dune-line accents. Atmospheric but highly legible. No ornate gold, fake luxury, excessive glassmorphism, decorative clocks or repeated hourglasses everywhere.
+
+SCREEN 1 HOME — substantially simpler:
+Remove the previous large coffee photograph, product recommendation strip, detailed group progress card and promotional sections from HOME ONLY.
+Create one serene continuous full-height warm cream/amber/sand brand canvas with generous whitespace. Status bar and WeChat capsule remain.
+Place the user's hourglass-coffee-bean-sand logo as the clear hero, centered at about upper-middle, approximately 105–125px wide relative to a 365px screen. It is refined warm brown linework faithfully based on image 2, not a generic hourglass. A softly lit translucent amber halo or gentle glass-like refracted coffee-light shape behind it, some faint drifting sand particles and 2–3 fine flowing sand contour lines toward the lower edges. Not a 3D object, not a desert landscape photograph.
+Under the logo, elegant readable serif headline "一杯之间", then small quiet subtitle "留一点时间，给喜欢的风味。" Do not add more copy.
+Near lower third put exactly TWO equally prominent navigation entry points side by side, separated by one fine brown vertical line, with simple expressive hand-drawn outline icons:
+left coffee bean bag icon, text "选购咖啡", tiny secondary "单一产地 / 日常拼配";
+right shared coffee cups icon, text "400g 拼团", tiny secondary "好风味，共享".
+Keep plenty of breathing room. These must read as tappable entry points, not product cards.
+Below them, at most one small COFFEE placeholder wordmark; no extra links, full product cards, countdowns, balances or memberships.
+Shared fixed tabbar exact labels "首页" "商品" "购物车" "我的", active 首页.
+
+SCREEN 2 PRODUCT:
+Preserve previous layout, search, filters, four products, prices, quantities and title "风味选集". Only re-skin to warm cream/amber/cocoa. Put a SMALL version of the supplied logo next to COFFEE top-left. Product packaging can gain understated versions of the same hourglass mark or sand contour lines; keep coffee-bag product photography and its quality, no requirement for a whole new package design. All four exact product names/values retained: 埃塞 · 花与柑橘 200g ¥88; 日常 · 醇厚拼配 200g ¥76; 哥伦比亚 · 红果 200g ¥92; 巴西 · 暖阳 200g ¥68. Do not convert this into a ready-to-drink menu. 商品 active.
+
+SCREEN 3 CART:
+Keep previous two products and layout, quantity one each, ¥88 and ¥76, TOTAL ¥164. Keep order and checkout controls and shipping information. Warm cocoa checkout button, pale cream background, thin sand-toned separators. Subtle small hourglass identity accent only in header, no added sections. 购物车 active.
+
+SCREEN 4 MY:
+Keep previous order statuses, my group card with "已拼 200g / 400g", waiting state and service list. Use supplied hourglass logo as the profile/avatar mark on a pale amber circle instead of a cup photo. A very faint sand-contour watermark can sit in the upper header but not behind body copy. Keep five order states and all four settings. 我的 active. Do not add balance, points, coupons, membership or recharge.
+
+PRESENTATION:
+Same four screen positions as image 1 so existing single-screen zoom crops work. Board background light cream-sand. Top-left small "COFFEE / 沙与时间", top-right "CONCEPT 04". Above screens keep "01 首页", "02 商品", "03 购物车", "04 我的". All screens completely visible. Preserve typography hierarchy, clear Chinese, functional data and all bottom navigation. The result should feel distinctly warmer and brighter than the ink-style reference, and the HOME visibly much simpler than our previous design.

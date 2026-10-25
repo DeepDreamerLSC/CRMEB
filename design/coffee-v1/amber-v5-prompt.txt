@@ -1,0 +1,18 @@
+Edit the supplied four-screen coffee mini-program design into CONCEPT 05. User explicitly requests a TRANSLUCENT COFFEE-BROWN FULL HOME SCREEN, not cream/beige with brown decoration, and permits a redesigned logo instead of copying their complex drawing.
+
+Keep same landscape 1642x958 canvas, identical four screen bounds/positions, all Chinese text, all functional contents, catalog/cart/account layouts and bottom navigation order.
+
+PRIMARY CHANGE — HOME / FIRST SCREEN:
+The ENTIRE first screen background from top status bar through bottom tabbar MUST be unmistakably rich COFFEE BROWN. Imagine looking through a thin layer of freshly brewed filter coffee in smoked amber glass, backlit with warm afternoon daylight: luminous translucent BROWN, caramel midtones, soft honey-brown highlights, richer roasted-coffee brown at edges. A sophisticated warm medium-brown palette: base #986644, lit areas #C19365, shadow #65432E, never pitch black. No white/ivory field on the home, no pale cream sky, no yellow-gold magic, no opaque muddy heavy flat brown. Brown should occupy 100% of this screen. Subtle broad natural light diffusion and transparent coffee-like fluid tonal layers, NOT shiny flowing ribbons or a physical cup photograph.
+Use very fine, barely-visible sand ripples toward the bottom, in lighter translucent brown, as a quiet time metaphor.
+Make ALL first-screen text, status icons, capsule, line icons and navigation warm ivory #FFF5E5 with strong readable contrast. Active home nav slightly brighter; tabbar a subtle translucent darker coffee-brown band, NOT a white strip.
+Retain only headline "一杯之间", subtitle "留一点时间，给喜欢的风味。", two entrypoints "选购咖啡" / "400g 拼团" with their current small secondary descriptions, and small COFFEE wordmark. Retain generous whitespace.
+Replace the enormous complex hourglass drawing with a NEW minimalist emblem around 75–95px wide in logical mobile scale, centered in upper-middle: a refined slender hourglass suggested by two opposing open curved contours, a single coffee-bean/drop shape in the narrow central negative space, and ONE quiet curved sand line at the base. Approximately 5–7 flowing lines total. No bean cluster, no busy top ellipse with beans, no landscape filled inside, no literal illustration. Elegant contemporary independent-roastery identity, thin but clear ivory line art. It must be distinctly simpler and smaller than the old logo. User authorized interpretation of coffee/time/sand, not faithful copying.
+Move headline upward slightly if needed after reducing emblem, keep composition balanced. Two large simple tactile hand-drawn entry icons remain.
+
+SECONDARY CHANGES — OTHER THREE SCREENS:
+Preserve their warm cream backgrounds and every existing functional element, all product text/images, prices 88/76/92/68 and cart total 164, group 200g/400g.
+Replace small old hourglass marks in headers, avatar and packaging with the new minimal emblem in cocoa brown for consistent identity. This is only a logo replacement; do not add or remove UI.
+Keep subtle warm coffee/sand accents, avoiding new ornament.
+
+Board outside screens remains pale neutral warm cream. Board title "COFFEE / 沙与时间"; upper-right "CONCEPT 05". Four screens and all four bottom navbars visible. No watermark, no new slogans, no membership or recharge. Home MUST visibly read as translucent brown from edge to edge while the three transactional screens stay light and readable.
